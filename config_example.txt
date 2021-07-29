@@ -1,0 +1,7 @@
+nevents = 100
+trento-args = O O -x 7.25 -n 17 -k 1.6 -p 0.0
+tau-fs = 0.37
+Tswitch = 0.151
+nucleon-width = 0.51
+rankvar = OMPI_COMM_WORLD_RANK
+rankfmt = {:02d}

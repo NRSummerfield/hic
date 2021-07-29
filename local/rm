@@ -1,0 +1,5 @@
+cd ..
+for i in models/*/; do
+    echo $i
+    rm -rf $i/build
+done

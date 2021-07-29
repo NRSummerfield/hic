@@ -1,0 +1,8 @@
+README.rst
+freestream.py
+setup.py
+freestream.egg-info/PKG-INFO
+freestream.egg-info/SOURCES.txt
+freestream.egg-info/dependency_links.txt
+freestream.egg-info/requires.txt
+freestream.egg-info/top_level.txt
